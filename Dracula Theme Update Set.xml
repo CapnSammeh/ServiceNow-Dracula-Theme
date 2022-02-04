@@ -1,1 +1,252 @@
- global Global global Implementation of Dracula Themes Dracula Theme 182d78771b22301082a36288b04bcb2f loaded sys_remote_update_set admin 2021-09-19 03:48:13 54e251f71b62301082a36288b04bcb2e 0 admin 2021-09-19 03:48:13 INSERT_OR_UPDATE global customer sys_ui_theme_6a3db8771b22301082a36288b04bcb9c <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_theme"><sys_ui_theme action="INSERT_OR_UPDATE"><active>true</active><base_theme/><css>/* &#13; Created by Sam Herring - https://community.servicenow.com/community?id=community_user_profile&amp;user=0eb192addb981fc09c9ffb651f961982&#13; &#13; Made with help from Jim Coyne's fantastic Theme Properties Visual Guide Series: https://community.servicenow.com/community?id=community_blog&amp;sys_id=afcda2e9dbd0dbc01dcaf3231f9619e8&amp;view_source=searchResult&#13; */&#13; &#13; /* Navpage Buttons */&#13; $navpage-button-color: #ff79c6&#13; $navpage-button-color-hover: #ff79c6&#13; &#13; /* Navbar Text */&#13; $navpage-nav-app-text: #f8f8f2&#13; &#13; /* Border Surrounding Navigation Bar */&#13; $navpage-nav-border: #44475a&#13; &#13; /* Selected Navbar Element */&#13; $navpage-nav-selected-bg: #282a36&#13; &#13; /* Iconography Coloring */&#13; $navpage-nav-selected-color: #ff79c6&#13; $navpage-nav-unselected-color: #f8f8f2&#13; &#13; /* Navpage Background */&#13; $navpage-nav-bg: #282a36&#13; $navpage-nav-bg-sub: #282a36&#13; &#13; /* Navpage Subpage Text */&#13; $navpage-nav-color-sub: #f8f8f2&#13; &#13; /* Navpage Header */&#13; $navpage-header-bg: #282a36&#13; $navpage-header-color: #f8f8f2&#13; $navpage-header-divider-color: #6272a4&#13; $navpage-header-button-color: #f8f8f2&#13; &#13; /* Nav Highlighting */&#13; $nav-highlight-main: #44475a&#13; $nav-highlight-bar-active: #ff79c6&#13; $nav-highlight-bar-inactive: #44475a&#13; &#13; /* Sub-Menu Line Breaks */&#13; $nav-hr-color: #282a36&#13; &#13; /* Sub-Menu Background Color */&#13; $subnav-background-color: #44475a&#13; &#13; /* Connect Messaging */&#13; $connect-latest-message: #50fa7b&#13; &#13; /* Search Text Color */&#13; $search-text-color: #f8f8f2&#13; </css><device>concourse</device><name>Dracula - Pink</name><sys_class_name>sys_ui_theme</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-09-19 02:13:44</sys_created_on><sys_id>6a3db8771b22301082a36288b04bcb9c</sys_id><sys_mod_count>49</sys_mod_count><sys_name>Dracula - Pink</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_ui_theme_6a3db8771b22301082a36288b04bcb9c</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-09-19 03:44:18</sys_updated_on></sys_ui_theme></record_update> -518837448 54e251f71b62301082a36288b04bcb2e false admin 2021-09-19 03:48:13 10e251f71b62301082a36288b04bcb2f 0 17bfc2796940000001 admin 2021-09-19 03:48:13 Dracula - Pink Theme global 72f15db763623010a5ae38b030cc2c43 72f15db763623010a5ae38b030cc2c43:-518837448,8b9155b76b623010dc97cee17c223055:64705479,077111b7606230100579a5406d5de0e2:1536674467,e071dd7706623010d04f558a39fa4dde:938838840,28e01177506230108909954cedc52fa1:-176129612,81d981fff2223010a3c5e3c0525517c2:538952394,74f84d7fd922301037c83570c87ea2ed:1269072868,68e84d7fdc223010d770ae26ed7b47d0:200786620,7dc84dbfb22230105c2cf0a432f811bb:-92956404,be78c57fbd223010dc28bfa3d5c67aa8:2066770700,a437497fab223010aeb42e2fa8a3b5a1:-2094422399,e127857f642230109d8eb24bc4de9fe1:-1439549524,09c6c57ffc223010593e6732cf10f28b:317384188,95b6c57fe92230109a2d9ea379120f88:-702911411,51a6817f9222301055a1b2586982108b:-2094422399,d8568d3f88223010ebb87f31edcd36e4:-547429848,a246493fe9223010a4b9650bf2c4b648:-949623714,d7364d3fd3223010bd4accbe4e18a60d:-547429848,29f54d3ff0223010c018156581ebc1b6:-838392429,78e5493fa4223010739c9d46fea6411b:-141202806,ccc5893fc72230108138abdb962e97e3:304509264,cf95813fdc223010ef6db12c773a53c3:2069704569,3c75813fc5223010d530f587cf7ab4c9:-1318127843,73154dfb142230108d51c7e8989f0c14:-1655544503,b50505fb352230102b2a00d8e89bec4a:-1637797137,88b449fb13223010deb29744cac6fdea:-1150059944,f67409fb792230102ababfa2ff12fa2d:1383256345,aa6401fbe6223010f570a0a5d863aac7:-1322924211,9d1449bbdf223010b87da881625bcb80:2079141721,cba34dbb79223010320786a6240e8542:-490741738,15934d7b4c223010f993bfe6e77f2a0e:1259220240,fd6345bbe22230105174e3b327e0361c:607047958,be0341bb98223010827d534ba0e04411:-1516318512,e4c20d7b52223010c073db12ae4cc7f2:1287056679,c4820d7bf82230102ee44868feedbffb:275243331,0ba1cd3bb9223010620e11d67f052632:-1626656813,2f918d3b98223010c2242d536c8203e8:-1593400689,b561c13b882230106eb1d06a1fca43a9:-1626656813,8521813b7c223010ed54e830b9f7fa97:482254988,bae0c13b2e22301089fc76e7727f79c9:1609649181,3bc0813b9a22301062b11195e6a14391:-258359714,0a80c13bea2230106cbc1253215c1c9f:-1753181991,f970413b92223010a69693a6b47cc189:-387594089,0160cdf782223010e69c2fb178172d03:-448949095,cf200d77f7223010a915af8a1b3b0e4b:-220464234,9c4fb0b7dd223010dd017ef2fc9990a6:-1886688551,881f70f71c223010474878920e97400f:1828589587,58eef877812230109a11904121e6deda:-1893643425,19ddb0b7fb223010ab507b1aa49ea8a0:-411545788,504d787777223010f71b3d17b1e807e7:1695398899 INSERT_OR_UPDATE global customer sys_ui_theme_6072d5b71b62301082a36288b04bcb81 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_theme"><sys_ui_theme action="INSERT_OR_UPDATE"><active>true</active><base_theme/><css>/* &#13; Created by Sam Herring - https://community.servicenow.com/community?id=community_user_profile&amp;user=0eb192addb981fc09c9ffb651f961982&#13; &#13; Made with help from Jim Coyne's fantastic Theme Properties Visual Guide Series: https://community.servicenow.com/community?id=community_blog&amp;sys_id=afcda2e9dbd0dbc01dcaf3231f9619e8&amp;view_source=searchResult&#13; */&#13; &#13; /* Navpage Buttons */&#13; $navpage-button-color: #ffb86c&#13; $navpage-button-color-hover: #ffb86c&#13; &#13; /* Navbar Text */&#13; $navpage-nav-app-text: #f8f8f2&#13; &#13; /* Border Surrounding Navigation Bar */&#13; $navpage-nav-border: #44475a&#13; &#13; /* Selected Navbar Element */&#13; $navpage-nav-selected-bg: #282a36&#13; &#13; /* Iconography Coloring */&#13; $navpage-nav-selected-color: #ffb86c&#13; $navpage-nav-unselected-color: #f8f8f2&#13; &#13; /* Navpage Background */&#13; $navpage-nav-bg: #282a36&#13; $navpage-nav-bg-sub: #282a36&#13; &#13; /* Navpage Subpage Text */&#13; $navpage-nav-color-sub: #f8f8f2&#13; &#13; /* Navpage Header */&#13; $navpage-header-bg: #282a36&#13; $navpage-header-color: #f8f8f2&#13; $navpage-header-divider-color: #6272a4&#13; $navpage-header-button-color: #f8f8f2&#13; &#13; /* Nav Highlighting */&#13; $nav-highlight-main: #44475a&#13; $nav-highlight-bar-active: #ffb86c&#13; $nav-highlight-bar-inactive: #44475a&#13; &#13; /* Sub-Menu Line Breaks */&#13; $nav-hr-color: #282a36&#13; &#13; /* Sub-Menu Background Color */&#13; $subnav-background-color: #44475a&#13; &#13; /* Connect Messaging */&#13; $connect-latest-message: #ffb86c&#13; &#13; /* Search Text Color */&#13; $search-text-color: #f8f8f2&#13; </css><device>concourse</device><name>Dracula - Orange</name><sys_class_name>sys_ui_theme</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-09-19 03:46:43</sys_created_on><sys_id>6072d5b71b62301082a36288b04bcb81</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Dracula - Orange</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_ui_theme_6072d5b71b62301082a36288b04bcb81</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-09-19 03:46:43</sys_updated_on></sys_ui_theme></record_update> -735801334 54e251f71b62301082a36288b04bcb2e false admin 2021-09-19 03:48:13 58e251f71b62301082a36288b04bcb2e 0 17bfc29d0710000001 admin 2021-09-19 03:48:13 Dracula - Orange Theme global 6a8219b730623010f1255e72f38dbab7 6a8219b730623010f1255e72f38dbab7:-735801334 INSERT_OR_UPDATE global customer sys_ui_theme_cf32d9b71b62301082a36288b04bcbea <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_theme"><sys_ui_theme action="INSERT_OR_UPDATE"><active>true</active><base_theme/><css>/* &#13; Created by Sam Herring - https://community.servicenow.com/community?id=community_user_profile&amp;user=0eb192addb981fc09c9ffb651f961982&#13; &#13; Made with help from Jim Coyne's fantastic Theme Properties Visual Guide Series: https://community.servicenow.com/community?id=community_blog&amp;sys_id=afcda2e9dbd0dbc01dcaf3231f9619e8&amp;view_source=searchResult&#13; */&#13; &#13; /* Navpage Buttons */&#13; $navpage-button-color: #50fa7b&#13; $navpage-button-color-hover: #50fa7b&#13; &#13; /* Navbar Text */&#13; $navpage-nav-app-text: #f8f8f2&#13; &#13; /* Border Surrounding Navigation Bar */&#13; $navpage-nav-border: #44475a&#13; &#13; /* Selected Navbar Element */&#13; $navpage-nav-selected-bg: #282a36&#13; &#13; /* Iconography Coloring */&#13; $navpage-nav-selected-color: #50fa7b&#13; $navpage-nav-unselected-color: #f8f8f2&#13; &#13; /* Navpage Background */&#13; $navpage-nav-bg: #282a36&#13; $navpage-nav-bg-sub: #282a36&#13; &#13; /* Navpage Subpage Text */&#13; $navpage-nav-color-sub: #f8f8f2&#13; &#13; /* Navpage Header */&#13; $navpage-header-bg: #282a36&#13; $navpage-header-color: #f8f8f2&#13; $navpage-header-divider-color: #6272a4&#13; $navpage-header-button-color: #f8f8f2&#13; &#13; /* Nav Highlighting */&#13; $nav-highlight-main: #44475a&#13; $nav-highlight-bar-active: #50fa7b&#13; $nav-highlight-bar-inactive: #44475a&#13; &#13; /* Sub-Menu Line Breaks */&#13; $nav-hr-color: #282a36&#13; &#13; /* Sub-Menu Background Color */&#13; $subnav-background-color: #44475a&#13; &#13; /* Connect Messaging */&#13; $connect-latest-message: #50fa7b&#13; &#13; /* Search Text Color */&#13; $search-text-color: #f8f8f2&#13; </css><device>concourse</device><name>Dracula - Green</name><sys_class_name>sys_ui_theme</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-09-19 03:45:24</sys_created_on><sys_id>cf32d9b71b62301082a36288b04bcbea</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Dracula - Green</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_ui_theme_cf32d9b71b62301082a36288b04bcbea</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-09-19 03:45:24</sys_updated_on></sys_ui_theme></record_update> 1728105146 54e251f71b62301082a36288b04bcb2e false admin 2021-09-19 03:48:13 58e251f71b62301082a36288b04bcb2f 0 17bfc289b7d0000001 admin 2021-09-19 03:48:13 Dracula - Green Theme global c332d9b78862301017eed25523dce6ec c332d9b78862301017eed25523dce6ec:1728105146 INSERT_OR_UPDATE global customer sys_ui_theme_be42d9b71b62301082a36288b04bcbed <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_theme"><sys_ui_theme action="INSERT_OR_UPDATE"><active>true</active><base_theme/><css>/* &#13; Created by Sam Herring - https://community.servicenow.com/community?id=community_user_profile&amp;user=0eb192addb981fc09c9ffb651f961982&#13; &#13; Made with help from Jim Coyne's fantastic Theme Properties Visual Guide Series: https://community.servicenow.com/community?id=community_blog&amp;sys_id=afcda2e9dbd0dbc01dcaf3231f9619e8&amp;view_source=searchResult&#13; */&#13; &#13; /* Navpage Buttons */&#13; $navpage-button-color: #bd93f9&#13; $navpage-button-color-hover: #bd93f9&#13; &#13; /* Navbar Text */&#13; $navpage-nav-app-text: #f8f8f2&#13; &#13; /* Border Surrounding Navigation Bar */&#13; $navpage-nav-border: #44475a&#13; &#13; /* Selected Navbar Element */&#13; $navpage-nav-selected-bg: #282a36&#13; &#13; /* Iconography Coloring */&#13; $navpage-nav-selected-color: #bd93f9&#13; $navpage-nav-unselected-color: #f8f8f2&#13; &#13; /* Navpage Background */&#13; $navpage-nav-bg: #282a36&#13; $navpage-nav-bg-sub: #282a36&#13; &#13; /* Navpage Subpage Text */&#13; $navpage-nav-color-sub: #f8f8f2&#13; &#13; /* Navpage Header */&#13; $navpage-header-bg: #282a36&#13; $navpage-header-color: #f8f8f2&#13; $navpage-header-divider-color: #6272a4&#13; $navpage-header-button-color: #f8f8f2&#13; &#13; /* Nav Highlighting */&#13; $nav-highlight-main: #44475a&#13; $nav-highlight-bar-active: #bd93f9&#13; $nav-highlight-bar-inactive: #44475a&#13; &#13; /* Sub-Menu Line Breaks */&#13; $nav-hr-color: #282a36&#13; &#13; /* Sub-Menu Background Color */&#13; $subnav-background-color: #44475a&#13; &#13; /* Connect Messaging */&#13; $connect-latest-message: #bd93f9&#13; &#13; /* Search Text Color */&#13; $search-text-color: #f8f8f2&#13; </css><device>concourse</device><name>Dracula - Purple</name><sys_class_name>sys_ui_theme</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-09-19 03:45:39</sys_created_on><sys_id>be42d9b71b62301082a36288b04bcbed</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Dracula - Purple</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_ui_theme_be42d9b71b62301082a36288b04bcbed</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-09-19 03:46:08</sys_updated_on></sys_ui_theme></record_update> 801172842 54e251f71b62301082a36288b04bcb2e false admin 2021-09-19 03:48:13 94e251f71b62301082a36288b04bcb2f 0 17bfc2945e60000001 admin 2021-09-19 03:48:13 Dracula - Purple Theme global 316291f7a662301077faa917e5131c8e 316291f7a662301077faa917e5131c8e:801172842,b242d9b76a623010b97fe980d292e7ef:-735801334 INSERT_OR_UPDATE global customer sys_ui_theme_bc22d9b71b62301082a36288b04bcbfe <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_theme"><sys_ui_theme action="INSERT_OR_UPDATE"><active>true</active><base_theme/><css>/* &#13; Created by Sam Herring - https://community.servicenow.com/community?id=community_user_profile&amp;user=0eb192addb981fc09c9ffb651f961982&#13; &#13; Made with help from Jim Coyne's fantastic Theme Properties Visual Guide Series: https://community.servicenow.com/community?id=community_blog&amp;sys_id=afcda2e9dbd0dbc01dcaf3231f9619e8&amp;view_source=searchResult&#13; */&#13; &#13; /* Navpage Buttons */&#13; $navpage-button-color: #8be9fd&#13; $navpage-button-color-hover: #8be9fd&#13; &#13; /* Navbar Text */&#13; $navpage-nav-app-text: #f8f8f2&#13; &#13; /* Border Surrounding Navigation Bar */&#13; $navpage-nav-border: #44475a&#13; &#13; /* Selected Navbar Element */&#13; $navpage-nav-selected-bg: #282a36&#13; &#13; /* Iconography Coloring */&#13; $navpage-nav-selected-color: #8be9fd&#13; $navpage-nav-unselected-color: #f8f8f2&#13; &#13; /* Navpage Background */&#13; $navpage-nav-bg: #282a36&#13; $navpage-nav-bg-sub: #282a36&#13; &#13; /* Navpage Subpage Text */&#13; $navpage-nav-color-sub: #f8f8f2&#13; &#13; /* Navpage Header */&#13; $navpage-header-bg: #282a36&#13; $navpage-header-color: #f8f8f2&#13; $navpage-header-divider-color: #6272a4&#13; $navpage-header-button-color: #f8f8f2&#13; &#13; /* Nav Highlighting */&#13; $nav-highlight-main: #44475a&#13; $nav-highlight-bar-active: #8be9fd&#13; $nav-highlight-bar-inactive: #44475a&#13; &#13; /* Sub-Menu Line Breaks */&#13; $nav-hr-color: #282a36&#13; &#13; /* Sub-Menu Background Color */&#13; $subnav-background-color: #44475a&#13; &#13; /* Connect Messaging */&#13; $connect-latest-message: #50fa7b&#13; &#13; /* Search Text Color */&#13; $search-text-color: #f8f8f2&#13; </css><device>concourse</device><name>Dracula - Cyan</name><sys_class_name>sys_ui_theme</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-09-19 03:44:59</sys_created_on><sys_id>bc22d9b71b62301082a36288b04bcbfe</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Dracula - Cyan</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_ui_theme_bc22d9b71b62301082a36288b04bcbfe</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-09-19 03:44:59</sys_updated_on></sys_ui_theme></record_update> 1754133808 54e251f71b62301082a36288b04bcb2e false admin 2021-09-19 03:48:13 d0e251f71b62301082a36288b04bcb2f 0 17bfc2837500000001 admin 2021-09-19 03:48:13 Dracula - Cyan Theme global 74221db7e062301007182755a8487900 74221db7e062301007182755a8487900:1754133808 
+<?xml version="1.0" encoding="UTF-8"?><unload unload_date="2022-02-04 05:52:43">
+<sys_remote_update_set action="INSERT_OR_UPDATE">
+<application display_value="Global">global</application>
+<application_name>Global</application_name>
+<application_scope>global</application_scope>
+<application_version/>
+<collisions/>
+<commit_date/>
+<deleted/>
+<description/>
+<inserted/>
+<name>Dracula - Themes</name>
+<origin_sys_id/>
+<parent display_value=""/>
+<release_date/>
+<remote_base_update_set display_value=""/>
+<remote_parent_id/>
+<remote_sys_id>f128981887250110a5104336cebb352b</remote_sys_id>
+<state>loaded</state>
+<summary/>
+<sys_class_name>sys_remote_update_set</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-02-04 05:52:42</sys_created_on>
+<sys_id>adca905c87250110a5104336cebb3505</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-02-04 05:52:42</sys_updated_on>
+<update_set display_value=""/>
+<update_source display_value=""/>
+<updated/>
+</sys_remote_update_set>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_ui_theme_bc22d9b71b62301082a36288b04bcbfe</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_theme action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <base_theme/>
+        <css>/* &#13; Created by Sam Herring - https://community.servicenow.com/community?id=community_user_profile&amp;user=0eb192addb981fc09c9ffb651f961982&#13; &#13; Made with help from Jim Coyne's fantastic Theme Properties Visual Guide Series: https://community.servicenow.com/community?id=community_blog&amp;sys_id=afcda2e9dbd0dbc01dcaf3231f9619e8&amp;view_source=searchResult&#13; */&#13; &#13; /* Navpage Buttons */&#13; $navpage-button-color: #8be9fd&#13; $navpage-button-color-hover: #8be9fd&#13; &#13; /* Navbar Text */&#13; $navpage-nav-app-text: #f8f8f2&#13; &#13; /* Border Surrounding Navigation Bar */&#13; $navpage-nav-border: #44475a&#13; &#13; /* Selected Navbar Element */&#13; $navpage-nav-selected-bg: #282a36&#13; &#13; /* Iconography Coloring */&#13; $navpage-nav-selected-color: #8be9fd&#13; $navpage-nav-unselected-color: #f8f8f2&#13; &#13; /* Navpage Background */&#13; $navpage-nav-bg: #282a36&#13; $navpage-nav-bg-sub: #282a36&#13; &#13; /* Navpage Subpage Text */&#13; $navpage-nav-color-sub: #f8f8f2&#13; &#13; /* Navpage Header */&#13; $navpage-header-bg: #282a36&#13; $navpage-header-color: #f8f8f2&#13; $navpage-header-divider-color: #6272a4&#13; $navpage-header-button-color: #f8f8f2&#13; &#13; /* Nav Highlighting */&#13; $nav-highlight-main: #44475a&#13; $nav-highlight-bar-active: #8be9fd&#13; $nav-highlight-bar-inactive: #44475a&#13; &#13; /* Sub-Menu Line Breaks */&#13; $nav-hr-color: #282a36&#13; &#13; /* Sub-Menu Background Color */&#13; $subnav-background-color: #44475a&#13; &#13; /* Connect Messaging */&#13; $connect-latest-message: #50fa7b&#13; &#13; /* Search Text Color */&#13; $search-text-color: #f8f8f2&#13; </css>
+        <device>concourse</device>
+        <name>Dracula - Cyan</name>
+        <sys_class_name>sys_ui_theme</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-09-19 03:44:59</sys_created_on>
+        <sys_id>bc22d9b71b62301082a36288b04bcbfe</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Dracula - Cyan</sys_name>
+        <sys_package display_value="Global" source="global">global</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Global">global</sys_scope>
+        <sys_update_name>sys_ui_theme_bc22d9b71b62301082a36288b04bcbfe</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-09-19 03:44:59</sys_updated_on>
+    </sys_ui_theme></record_update>]]></payload>
+<payload_hash>-210241983</payload_hash>
+<remote_update_set display_value="Dracula - Themes">adca905c87250110a5104336cebb3505</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-02-04 05:52:42</sys_created_on>
+<sys_id>2dca905c87250110a5104336cebb3506</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17ec34a3ee80000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-02-04 05:52:42</sys_updated_on>
+<table/>
+<target_name>Dracula - Cyan</target_name>
+<type>Theme</type>
+<update_domain>global</update_domain>
+<update_guid>edaa9c5cba25011066458561d774535f</update_guid>
+<update_guid_history>edaa9c5cba25011066458561d774535f:-210241983</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_ui_theme_6a3db8771b22301082a36288b04bcb9c</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_theme action="INSERT_OR_UPDATE">
+    <active>true</active>
+    <base_theme/>
+    <css>/* &#13; Created by Sam Herring - https://community.servicenow.com/community?id=community_user_profile&amp;user=0eb192addb981fc09c9ffb651f961982&#13; &#13; Made with help from Jim Coyne's fantastic Theme Properties Visual Guide Series: https://community.servicenow.com/community?id=community_blog&amp;sys_id=afcda2e9dbd0dbc01dcaf3231f9619e8&amp;view_source=searchResult&#13; */&#13; &#13; /* Navpage Buttons */&#13; $navpage-button-color: #ff79c6&#13; $navpage-button-color-hover: #ff79c6&#13; &#13; /* Navbar Text */&#13; $navpage-nav-app-text: #f8f8f2&#13; &#13; /* Border Surrounding Navigation Bar */&#13; $navpage-nav-border: #44475a&#13; &#13; /* Selected Navbar Element */&#13; $navpage-nav-selected-bg: #282a36&#13; &#13; /* Iconography Coloring */&#13; $navpage-nav-selected-color: #ff79c6&#13; $navpage-nav-unselected-color: #f8f8f2&#13; &#13; /* Navpage Background */&#13; $navpage-nav-bg: #282a36&#13; $navpage-nav-bg-sub: #282a36&#13; &#13; /* Navpage Subpage Text */&#13; $navpage-nav-color-sub: #f8f8f2&#13; &#13; /* Navpage Header */&#13; $navpage-header-bg: #282a36&#13; $navpage-header-color: #f8f8f2&#13; $navpage-header-divider-color: #6272a4&#13; $navpage-header-button-color: #f8f8f2&#13; &#13; /* Nav Highlighting */&#13; $nav-highlight-main: #44475a&#13; $nav-highlight-bar-active: #ff79c6&#13; $nav-highlight-bar-inactive: #44475a&#13; &#13; /* Sub-Menu Line Breaks */&#13; $nav-hr-color: #282a36&#13; &#13; /* Sub-Menu Background Color */&#13; $subnav-background-color: #44475a&#13; &#13; /* Connect Messaging */&#13; $connect-latest-message: #50fa7b&#13; &#13; /* Search Text Color */&#13; $search-text-color: #f8f8f2&#13; </css>
+    <device>concourse</device>
+    <name>Dracula - Pink</name>
+    <sys_class_name>sys_ui_theme</sys_class_name>
+    <sys_created_by>admin</sys_created_by>
+    <sys_created_on>2021-09-19 02:13:44</sys_created_on>
+    <sys_id>6a3db8771b22301082a36288b04bcb9c</sys_id>
+    <sys_mod_count>49</sys_mod_count>
+    <sys_name>Dracula - Pink</sys_name>
+    <sys_package display_value="Global" source="global">global</sys_package>
+    <sys_policy/>
+    <sys_scope display_value="Global">global</sys_scope>
+    <sys_update_name>sys_ui_theme_6a3db8771b22301082a36288b04bcb9c</sys_update_name>
+    <sys_updated_by>admin</sys_updated_by>
+    <sys_updated_on>2021-09-19 03:44:18</sys_updated_on>
+</sys_ui_theme></record_update>]]></payload>
+<payload_hash>1015442297</payload_hash>
+<remote_update_set display_value="Dracula - Themes">adca905c87250110a5104336cebb3505</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-02-04 05:52:42</sys_created_on>
+<sys_id>69ca905c87250110a5104336cebb3506</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17ec342a1cb0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-02-04 05:52:42</sys_updated_on>
+<table/>
+<target_name>Dracula - Pink</target_name>
+<type>Theme</type>
+<update_domain>global</update_domain>
+<update_guid>b7b8d4d811250110f8a2d3411feb094a</update_guid>
+<update_guid_history>b7b8d4d811250110f8a2d3411feb094a:1015442297</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_ui_theme_6072d5b71b62301082a36288b04bcb81</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_theme action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <base_theme/>
+        <css>/* &#13; Created by Sam Herring - https://community.servicenow.com/community?id=community_user_profile&amp;user=0eb192addb981fc09c9ffb651f961982&#13; &#13; Made with help from Jim Coyne's fantastic Theme Properties Visual Guide Series: https://community.servicenow.com/community?id=community_blog&amp;sys_id=afcda2e9dbd0dbc01dcaf3231f9619e8&amp;view_source=searchResult&#13; */&#13; &#13; /* Navpage Buttons */&#13; $navpage-button-color: #ffb86c&#13; $navpage-button-color-hover: #ffb86c&#13; &#13; /* Navbar Text */&#13; $navpage-nav-app-text: #f8f8f2&#13; &#13; /* Border Surrounding Navigation Bar */&#13; $navpage-nav-border: #44475a&#13; &#13; /* Selected Navbar Element */&#13; $navpage-nav-selected-bg: #282a36&#13; &#13; /* Iconography Coloring */&#13; $navpage-nav-selected-color: #ffb86c&#13; $navpage-nav-unselected-color: #f8f8f2&#13; &#13; /* Navpage Background */&#13; $navpage-nav-bg: #282a36&#13; $navpage-nav-bg-sub: #282a36&#13; &#13; /* Navpage Subpage Text */&#13; $navpage-nav-color-sub: #f8f8f2&#13; &#13; /* Navpage Header */&#13; $navpage-header-bg: #282a36&#13; $navpage-header-color: #f8f8f2&#13; $navpage-header-divider-color: #6272a4&#13; $navpage-header-button-color: #f8f8f2&#13; &#13; /* Nav Highlighting */&#13; $nav-highlight-main: #44475a&#13; $nav-highlight-bar-active: #ffb86c&#13; $nav-highlight-bar-inactive: #44475a&#13; &#13; /* Sub-Menu Line Breaks */&#13; $nav-hr-color: #282a36&#13; &#13; /* Sub-Menu Background Color */&#13; $subnav-background-color: #44475a&#13; &#13; /* Connect Messaging */&#13; $connect-latest-message: #ffb86c&#13; &#13; /* Search Text Color */&#13; $search-text-color: #f8f8f2&#13; </css>
+        <device>concourse</device>
+        <name>Dracula - Orange</name>
+        <sys_class_name>sys_ui_theme</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-09-19 03:46:43</sys_created_on>
+        <sys_id>6072d5b71b62301082a36288b04bcb81</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Dracula - Orange</sys_name>
+        <sys_package display_value="Global" source="global">global</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Global">global</sys_scope>
+        <sys_update_name>sys_ui_theme_6072d5b71b62301082a36288b04bcb81</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-09-19 03:46:43</sys_updated_on>
+    </sys_ui_theme></record_update>]]></payload>
+<payload_hash>-1320960793</payload_hash>
+<remote_update_set display_value="Dracula - Themes">adca905c87250110a5104336cebb3505</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-02-04 05:52:42</sys_created_on>
+<sys_id>a1ca905c87250110a5104336cebb3506</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17ec348a2480000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-02-04 05:52:42</sys_updated_on>
+<table/>
+<target_name>Dracula - Orange</target_name>
+<type>Theme</type>
+<update_domain>global</update_domain>
+<update_guid>773a585c39250110d613210f03328f14</update_guid>
+<update_guid_history>773a585c39250110d613210f03328f14:-1320960793,19f9541c33250110599816ef412b0014:-1320960793</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_ui_theme_cf32d9b71b62301082a36288b04bcbea</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_theme action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <base_theme/>
+        <css>/* &#13; Created by Sam Herring - https://community.servicenow.com/community?id=community_user_profile&amp;user=0eb192addb981fc09c9ffb651f961982&#13; &#13; Made with help from Jim Coyne's fantastic Theme Properties Visual Guide Series: https://community.servicenow.com/community?id=community_blog&amp;sys_id=afcda2e9dbd0dbc01dcaf3231f9619e8&amp;view_source=searchResult&#13; */&#13; &#13; /* Navpage Buttons */&#13; $navpage-button-color: #50fa7b&#13; $navpage-button-color-hover: #50fa7b&#13; &#13; /* Navbar Text */&#13; $navpage-nav-app-text: #f8f8f2&#13; &#13; /* Border Surrounding Navigation Bar */&#13; $navpage-nav-border: #44475a&#13; &#13; /* Selected Navbar Element */&#13; $navpage-nav-selected-bg: #282a36&#13; &#13; /* Iconography Coloring */&#13; $navpage-nav-selected-color: #50fa7b&#13; $navpage-nav-unselected-color: #f8f8f2&#13; &#13; /* Navpage Background */&#13; $navpage-nav-bg: #282a36&#13; $navpage-nav-bg-sub: #282a36&#13; &#13; /* Navpage Subpage Text */&#13; $navpage-nav-color-sub: #f8f8f2&#13; &#13; /* Navpage Header */&#13; $navpage-header-bg: #282a36&#13; $navpage-header-color: #f8f8f2&#13; $navpage-header-divider-color: #6272a4&#13; $navpage-header-button-color: #f8f8f2&#13; &#13; /* Nav Highlighting */&#13; $nav-highlight-main: #44475a&#13; $nav-highlight-bar-active: #50fa7b&#13; $nav-highlight-bar-inactive: #44475a&#13; &#13; /* Sub-Menu Line Breaks */&#13; $nav-hr-color: #282a36&#13; &#13; /* Sub-Menu Background Color */&#13; $subnav-background-color: #44475a&#13; &#13; /* Connect Messaging */&#13; $connect-latest-message: #50fa7b&#13; &#13; /* Search Text Color */&#13; $search-text-color: #f8f8f2&#13; </css>
+        <device>concourse</device>
+        <name>Dracula - Green</name>
+        <sys_class_name>sys_ui_theme</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-09-19 03:45:24</sys_created_on>
+        <sys_id>cf32d9b71b62301082a36288b04bcbea</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Dracula - Green</sys_name>
+        <sys_package display_value="Global" source="global">global</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Global">global</sys_scope>
+        <sys_update_name>sys_ui_theme_cf32d9b71b62301082a36288b04bcbea</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-09-19 03:45:24</sys_updated_on>
+    </sys_ui_theme></record_update>]]></payload>
+<payload_hash>1799209331</payload_hash>
+<remote_update_set display_value="Dracula - Themes">adca905c87250110a5104336cebb3505</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-02-04 05:52:42</sys_created_on>
+<sys_id>a1ca905c87250110a5104336cebb3507</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17ec349380f0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-02-04 05:52:42</sys_updated_on>
+<table/>
+<target_name>Dracula - Green</target_name>
+<type>Theme</type>
+<update_domain>global</update_domain>
+<update_guid>c56ad85c66250110d442d3e9fa71312c</update_guid>
+<update_guid_history>c56ad85c66250110d442d3e9fa71312c:1799209331</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_ui_theme_be42d9b71b62301082a36288b04bcbed</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_theme action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <base_theme/>
+        <css>/* &#13; Created by Sam Herring - https://community.servicenow.com/community?id=community_user_profile&amp;user=0eb192addb981fc09c9ffb651f961982&#13; &#13; Made with help from Jim Coyne's fantastic Theme Properties Visual Guide Series: https://community.servicenow.com/community?id=community_blog&amp;sys_id=afcda2e9dbd0dbc01dcaf3231f9619e8&amp;view_source=searchResult&#13; */&#13; &#13; /* Navpage Buttons */&#13; $navpage-button-color: #bd93f9&#13; $navpage-button-color-hover: #bd93f9&#13; &#13; /* Navbar Text */&#13; $navpage-nav-app-text: #f8f8f2&#13; &#13; /* Border Surrounding Navigation Bar */&#13; $navpage-nav-border: #44475a&#13; &#13; /* Selected Navbar Element */&#13; $navpage-nav-selected-bg: #282a36&#13; &#13; /* Iconography Coloring */&#13; $navpage-nav-selected-color: #bd93f9&#13; $navpage-nav-unselected-color: #f8f8f2&#13; &#13; /* Navpage Background */&#13; $navpage-nav-bg: #282a36&#13; $navpage-nav-bg-sub: #282a36&#13; &#13; /* Navpage Subpage Text */&#13; $navpage-nav-color-sub: #f8f8f2&#13; &#13; /* Navpage Header */&#13; $navpage-header-bg: #282a36&#13; $navpage-header-color: #f8f8f2&#13; $navpage-header-divider-color: #6272a4&#13; $navpage-header-button-color: #f8f8f2&#13; &#13; /* Nav Highlighting */&#13; $nav-highlight-main: #44475a&#13; $nav-highlight-bar-active: #bd93f9&#13; $nav-highlight-bar-inactive: #44475a&#13; &#13; /* Sub-Menu Line Breaks */&#13; $nav-hr-color: #282a36&#13; &#13; /* Sub-Menu Background Color */&#13; $subnav-background-color: #44475a&#13; &#13; /* Connect Messaging */&#13; $connect-latest-message: #bd93f9&#13; &#13; /* Search Text Color */&#13; $search-text-color: #f8f8f2&#13; </css>
+        <device>concourse</device>
+        <name>Dracula - Purple</name>
+        <sys_class_name>sys_ui_theme</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-09-19 03:45:39</sys_created_on>
+        <sys_id>be42d9b71b62301082a36288b04bcbed</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Dracula - Purple</sys_name>
+        <sys_package display_value="Global" source="global">global</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Global">global</sys_scope>
+        <sys_update_name>sys_ui_theme_be42d9b71b62301082a36288b04bcbed</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-09-19 03:46:08</sys_updated_on>
+    </sys_ui_theme></record_update>]]></payload>
+<payload_hash>-203757305</payload_hash>
+<remote_update_set display_value="Dracula - Themes">adca905c87250110a5104336cebb3505</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-02-04 05:52:42</sys_created_on>
+<sys_id>edca905c87250110a5104336cebb3506</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17ec349b7480000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-02-04 05:52:42</sys_updated_on>
+<table/>
+<target_name>Dracula - Purple</target_name>
+<type>Theme</type>
+<update_domain>global</update_domain>
+<update_guid>458ad85ccf250110de55335841166b2f</update_guid>
+<update_guid_history>458ad85ccf250110de55335841166b2f:-203757305</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+</unload>
