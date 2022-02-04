@@ -35,8 +35,7 @@ Download the .XML file and import it into your 'Remote Update Sources' table.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@CapnSammeh](https://twitter.com/CapnSammeh) - samherring111@gmail.com@samherring111@gmail.com
-
+[@CapnSammeh](https://twitter.com/CapnSammeh) - 
 Project Link: [https://github.com/CapnSammeh/ServiceNow-Dracula-Theme](https://github.com/CapnSammeh/ServiceNow-Dracula-Theme)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
